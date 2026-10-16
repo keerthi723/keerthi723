@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Keerthiga 👋
 
-<!--
-**keerthi723/keerthi723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer from Chennai, India. I build APIs and full-stack apps with Python and the MERN stack, and I like writing code I can fully explain. Currently exploring RAG and AI agents.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Python, JavaScript
+- **Backend:** FastAPI, Flask, Node.js, Express
+- **Databases:** MongoDB (indexes, aggregation pipelines)
+- **Frontend:** React, HTML, CSS
+- **Tools:** Git, GitHub, Docker (basics), Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- [Pickzy](https://github.com/keerthi723/pickzy.git): MERN e-commerce app
+- [RCA-RAG](https://github.com/keerthi723/RAG-MultiHop-QA.git): retrieval-augmented generation project
+
+## Learning now
+Deeper FastAPI, AI agents
+
+## Contact
+-[EMAIL]:(keerthiga342@gmail.com)
+-[LinkedIn]:(https://www.linkedin.com/in/keerthiga-p-29067b225)
