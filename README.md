@@ -11,7 +11,7 @@ Full Stack Developer from Chennai, India. I build APIs and full-stack apps with 
 
 ## Featured projects
 - [Pickzy](https://github.com/keerthi723/pickzy.git): MERN e-commerce app
-- [RCA-RAG](https://github.com/keerthi723/RAG-MultiHop-QA.git): retrieval-augmented generation project
+
 
 ## Learning now
 Deeper FastAPI, AI agents
