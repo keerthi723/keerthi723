@@ -10,7 +10,9 @@ Full Stack Developer from Chennai, India. I build APIs and full-stack apps with 
 - **Tools:** Git, GitHub, Docker (basics), Postman
 
 ## Featured projects
-- [Pickzy](https://github.com/keerthi723/pickzy.git): MERN e-commerce app
+## Featured projects
+- [Pickzy](https://github.com/keerthi723/pickzy): MERN e-commerce app (Amazon-inspired demo)
+- [Gram Panchayat E-Services](https://github.com/keerthi723/Gram-panchayat-system): one portal for bill payments and rural complaints (Python, Flask, MySQL)
 
 
 ## Learning now
