@@ -17,5 +17,4 @@ Full Stack Developer from Chennai, India. I build APIs and full-stack apps with 
 Deeper FastAPI, AI agents
 
 ## Contact
--[EMAIL]:(keerthiga342@gmail.com)
--[LinkedIn]:(https://www.linkedin.com/in/keerthiga-p-29067b225)
+[keerthiga342@gmail.com](mailto:keerthiga342@gmail.com) · [LinkedIn](https://www.linkedin.com/in/keerthiga-p-29067b225)
